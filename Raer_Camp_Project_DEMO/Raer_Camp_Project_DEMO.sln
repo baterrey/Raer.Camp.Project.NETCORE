@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raer_Camp_Project_DEMO", "Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO.csproj", "{8FF2B8B3-F707-4810-965D-F9850BE30142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raer_Camp_Project_DEMO_WEB_API", "Raer_Camp_Project_DEMO_WEB_API\Raer_Camp_Project_DEMO_WEB_API.csproj", "{FEE1C726-FA08-44C9-AB7F-EAD7DC29B047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF2B8B3-F707-4810-965D-F9850BE30142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF2B8B3-F707-4810-965D-F9850BE30142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF2B8B3-F707-4810-965D-F9850BE30142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF2B8B3-F707-4810-965D-F9850BE30142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE1C726-FA08-44C9-AB7F-EAD7DC29B047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE1C726-FA08-44C9-AB7F-EAD7DC29B047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE1C726-FA08-44C9-AB7F-EAD7DC29B047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE1C726-FA08-44C9-AB7F-EAD7DC29B047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

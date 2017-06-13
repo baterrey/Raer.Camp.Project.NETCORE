@@ -1,0 +1,10 @@
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.deps.json
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.runtimeconfig.json
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.runtimeconfig.dev.json
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.dll
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.pdb
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.csprojResolveAssemblyReference.cache
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.AssemblyInfo.cs
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.dll
+c:\users\oops\documents\visual studio 2017\Projects\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO.pdb
