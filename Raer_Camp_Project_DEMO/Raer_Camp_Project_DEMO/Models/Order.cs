@@ -13,7 +13,7 @@ namespace Raer_Camp_Project_DEMO.Models
 
         public string Address { get; set; }
 
-        public string ConcatPhone { get; set; }
+        public string ContactPhone { get; set; }
 
         public int PhoneId { get; set; }
 

@@ -8,9 +8,10 @@ using Raer_Camp_Project_DEMO.Models;
 namespace Raer_Camp_Project_DEMO.Migrations
 {
     [DbContext(typeof(MobileContext))]
-    partial class MobileContextModelSnapshot : ModelSnapshot
+    [Migration("20170613184304_changedOrderModel")]
+    partial class changedOrderModel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")

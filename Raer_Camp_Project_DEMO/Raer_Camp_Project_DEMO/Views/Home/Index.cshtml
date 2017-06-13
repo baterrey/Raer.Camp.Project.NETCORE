@@ -1,13 +1,10 @@
 ﻿@model IEnumerable<Phone>
 @{ 
-    Layout = null;
+    ViewData["Title"] = "Catalog";
 }
-<!DOCTYPE html>
-<html>
-<head>Smartphone Store</head>
-<body>
+
     <h3>Smartphones</h3>
-    <table>
+    <table class="table-condensed">
         <tr>
             <td>Model</td>
             <td>Company</td>
@@ -24,5 +21,3 @@
             </tr>
         }
     </table>
-</body>
-</html>

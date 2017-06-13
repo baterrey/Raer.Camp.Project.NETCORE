@@ -38,5 +38,18 @@ namespace Raer_Camp_Project_DEMO.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Buy(int id) {
+            ViewBag.PhoneId = id;
+            return View();
+        }
+
+        [HttpPost]
+        public string Buy(Order order) {
+            db.Orders.Add(order);
+            db.SaveChanges();
+            return "Thank you, " + order.User + ", for your order";
+        }
     }
 }

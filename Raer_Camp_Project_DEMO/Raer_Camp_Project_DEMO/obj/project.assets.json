@@ -10955,10 +10955,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oops\\Documents\\Visual Studio 2017\\Projects\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO.csproj",
+      "projectUniqueName": "C:\\Users\\Oops\\Documents\\Visual Studio 2017\\Projects\\Raer.Camp.Project.NETCORE\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO.csproj",
       "projectName": "Raer_Camp_Project_DEMO",
-      "projectPath": "C:\\Users\\Oops\\Documents\\Visual Studio 2017\\Projects\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO.csproj",
-      "outputPath": "C:\\Users\\Oops\\Documents\\Visual Studio 2017\\Projects\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO\\obj\\",
+      "projectPath": "C:\\Users\\Oops\\Documents\\Visual Studio 2017\\Projects\\Raer.Camp.Project.NETCORE\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO.csproj",
+      "outputPath": "C:\\Users\\Oops\\Documents\\Visual Studio 2017\\Projects\\Raer.Camp.Project.NETCORE\\Raer_Camp_Project_DEMO\\Raer_Camp_Project_DEMO\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
