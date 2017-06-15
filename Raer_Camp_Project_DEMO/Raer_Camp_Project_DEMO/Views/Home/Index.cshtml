@@ -2,13 +2,17 @@
 @{ 
     ViewData["Title"] = "Catalog";
 }
-
+@if(ViewBag.Error != null)
+{
+    <h1>@ViewBag.Error</h1>
+}
     <h3>Smartphones</h3>
     <table class="table-condensed">
         <tr>
             <td>Model</td>
             <td>Company</td>
             <td>Price</td>
+            <td></td>
             <td></td>
         </tr>
         @foreach (var phone in Model)
@@ -17,7 +21,9 @@
                 <td>@phone.Name</td>
                 <td>@phone.Company</td>
                 <td>@phone.Price</td>
-                <td><a href="~/Home/Buy/@phone.Id">Buy</a></td>
+                @*<td><a href="~/Home/Buy/@phone.Id">Buy</a></td>*@
+                <td><a href="~/Home/Edit/@phone.Id">Edit</a></td>
+                <td><a href="~/Home/Delete/@phone.Id">Delete</a></td>
             </tr>
         }
     </table>

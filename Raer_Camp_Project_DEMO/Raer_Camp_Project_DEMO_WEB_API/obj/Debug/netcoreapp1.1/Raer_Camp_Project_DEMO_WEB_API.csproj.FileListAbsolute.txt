@@ -1,9 +1,0 @@
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.deps.json
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.runtimeconfig.json
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.runtimeconfig.dev.json
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.dll
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\bin\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.pdb
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.AssemblyInfo.cs
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.dll
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.pdb
-C:\Users\Oops\Documents\Visual Studio 2017\Projects\Raer.Camp.Project.NETCORE\Raer_Camp_Project_DEMO\Raer_Camp_Project_DEMO_WEB_API\obj\Debug\netcoreapp1.1\Raer_Camp_Project_DEMO_WEB_API.csprojResolveAssemblyReference.cache
