@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 using Raer_Camp_Project_DEMO.Data;
 using Raer_Camp_Project_DEMO.Models;
 using Raer_Camp_Project_DEMO.Services;
-
+using DataContext;
 namespace Raer_Camp_Project_DEMO
 {
     public class Startup
@@ -43,8 +43,8 @@ namespace Raer_Camp_Project_DEMO
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddDbContext<MobileContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
+            //services.AddDbContext<MobileContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<DatabaseContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();

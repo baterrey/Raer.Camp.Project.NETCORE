@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
+using DataContext;
 
 namespace Raer_Camp_Project_DEMO.Models
 {
     public static class SampleData
     {
         public static void Initialize(IServiceProvider serviceProvider) {
-            var context = serviceProvider.GetService<MobileContext>();
+            var context = serviceProvider.GetService<DatabaseContext>();
 
             if (!context.Phones.Any()) {
                 context.Phones.AddRange(

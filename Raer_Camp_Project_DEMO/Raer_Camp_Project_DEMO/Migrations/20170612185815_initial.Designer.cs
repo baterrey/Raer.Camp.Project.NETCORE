@@ -3,11 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
-using Raer_Camp_Project_DEMO.Models;
+using DataContext;
 
 namespace Raer_Camp_Project_DEMO.Migrations
 {
-    [DbContext(typeof(MobileContext))]
+    [DbContext(typeof(DatabaseContext))]
     [Migration("20170612185815_initial")]
     partial class initial
     {

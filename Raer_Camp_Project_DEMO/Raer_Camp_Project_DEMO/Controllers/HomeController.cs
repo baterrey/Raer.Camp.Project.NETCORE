@@ -4,14 +4,15 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Raer_Camp_Project_DEMO.Models;
+using DataContext;
 
 namespace Raer_Camp_Project_DEMO.Controllers
 {
     public class HomeController : Controller
     {
-        MobileContext db;
+        DatabaseContext db;
 
-        public HomeController(MobileContext db) {
+        public HomeController(DatabaseContext db) {
             this.db = db;
         }
 

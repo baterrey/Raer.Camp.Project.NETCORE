@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Raer_Camp_Project_DEMO_WEB_API.Models;
+using DataContext;
 
 namespace Raer_Camp_Project_DEMO_WEB_API.Controllers
 {
